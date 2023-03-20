@@ -7,7 +7,7 @@ git kaulins projekts kur versionels ar git
 - [x] Izveidots personigais Github konts
 - [x] Izveidots pirmais repo Github
 - [x] Lokalais projekts izveidots Github krātuvē
-- [ ] Palielinat Github repo un iegūt to lokālai lietošanai
+- [X] Palielinat Github repo un iegūt to lokālai lietošanai
 - [ ] Projektam piesledzies velviens programmētājs, veikta kopdarbošanas
-- [ ] projektams ievests jauns zars (branch)
+- [X] projektams ievests jauns zars (branch)
 - [ ] veikta sapludinašana un novērsts merge konflikts       
